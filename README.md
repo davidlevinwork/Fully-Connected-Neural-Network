@@ -3,7 +3,6 @@ MLP (fully connected neural network) from scratch using numpy on the MNIST datas
 
 1. [General](#General)
     - [Background](#background)
-    - [Running Instructions](https://github.com/tomershay100/Fully-Connected-Neural-Network/blob/main/README.md#running-instructions)
 2. [Dependencies](#dependencies) 
 
 ## General
